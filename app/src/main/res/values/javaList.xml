@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name ="javaList">
+        <item name="basicSyntax" >Basic Syntax </item>
+        <item name="Loops">Loops </item>
+        <item name="Arrays">Arrays</item>
+        <item name="JavaAppletPieChart" > Java Applet Pie Chart   </item>
+        <item name="JavaAppletClock"> Java Applet Clock   </item>
+        <item name="JavaAppletColorChooser"> Java Applet Color Chooser  </item>
+        <item name="JavaProjectABallMovingAroundTheWindow" > Project: A Ball Moving Around the Window </item>
+        <item name="JavaProjectschoolManagementSystem" > Project: School management System </item>
+        <item name="JavaProjectCalculator" >Project: Simple Calculator </item>
+        <item name="JavaProjectScientificCalculator" >Project: Scientific Calculator </item>
+        <item name="javaProjectCreateGUIForbankAccountSimulation " >Project: Create GUI for Bank Account Simulation </item>
+
+    </string-array>
+</resources>

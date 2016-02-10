@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.bilalyaq00b.programmingforyou">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+
+        <activity
+            android:name=".ListLanguage"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity
+            android:name=".c_package.C"
+            android:label="@string/title_C_language"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.bilalyaq00b.programmingforyou.ListLanguage" />
+        </activity>
+
+
+        <activity
+            android:name=".c_package.Cplusplus"
+            android:label="@string/title_Cpplanguage"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.bilalyaq00b.programmingforyou.ListLanguage" />
+
+        </activity>
+        <activity
+            android:name=".java_package.Javaa"
+            android:label="@string/title_Java"
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.bilalyaq00b.programmingforyou.ListLanguage" />
+        </activity>
+        <activity
+            android:name=".c_package.Cdisplay"
+
+            android:screenOrientation="portrait">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.bilalyaq00b.programmingforyou.c_package.C" />
+
+        </activity>
+        <activity
+            android:name=".c_views.ShowCAssignmentCode"
+            android:screenOrientation="portrait"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".c_views.ShowCNumberCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCSortingCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCMatrixCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCArrayCode"
+
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCSwappingCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCStringCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCConversionCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCComplexCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCLcmCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCSearchingCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCGamesCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".c_views.ShowCProjectCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".ds_package.dataStructure"
+            android:screenOrientation="portrait" >
+
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.bilalyaq00b.programmingforyou.ListLanguage" />
+        </activity>
+
+        <activity
+            android:name=".ds_package.ShowDataStructureCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".oop_package.oop"
+            android:screenOrientation="portrait" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.bilalyaq00b.programmingforyou.ListLanguage" />
+
+        </activity>
+        <activity
+            android:name=".oop_package.ShowOopCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".java_package.ShowJavaCode"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name=".java_package.J"
+            android:screenOrientation="portrait" >
+
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.bilalyaq00b.programmingforyou.ListLanguage" />
+
+        </activity>
+
+    </application>
+
+</manifest>

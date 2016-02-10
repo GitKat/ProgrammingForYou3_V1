@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name ="assignmentList">
+        <item name="UA" > Unsolved Assignments </item>
+        <item name="SA"> Solved Assignments </item>
+
+    </string-array>
+
+
+
+    <string-array name ="tutorialList">
+        <item name="Pointers" > Pointers </item>
+        <item name="Nothing"> Nothing </item>
+    </string-array>
+
+
+
+    <string-array name ="ifElseList">
+        <item name="Even or odd" > Even or odd </item>
+        <item name="Prime or not prime"> Prime or not prime </item>
+
+
+
+    </string-array>
+    <string-array name ="sortingList">
+        <item name="BubbleSort" > Bubble Sort </item>
+        <item name="MergeSort"> Merge Sort </item>
+
+        <item name="Selection"> Selection Sort </item>
+        <item name="Quick" > Quick Sort </item>
+        <item name="Insertion"> Insertion Sort </item>
+    </string-array>
+
+
+
+
+    <string-array name ="numberList">
+        <item name="sumOdDigits" > Sum of Digit </item>
+        <item name="powerOfANumber"> Power Of A Number </item>
+        <item name="addTwoNumbers"> Add Two Numbers Without using + operator </item>
+        <item name="largestNumber" > Find The Largest Number </item>
+        <item name="genericRoot"> Calculate Generic Root </item>
+        <item name="subtractTwoNumbers"> Subtract Two Numbers Without using - operator </item>
+        <item name="largestNumber3" > Find The Largest Number Among 3 </item>
+        <item name="primeFactor"> Prime Factor </item>
+        <item name="countNumberOfDigits"> Count The Number Of Digits </item>
+        <item name="ASCIIValues"> Print ASCII Values </item>
+        <item name="strong"> Check whether a number is Strong or Not </item>
+        <item name="extract"> Extract Digits From Integer</item>
+        <item name="checkEven"> Check Even Or Odd</item>
+        <item name="ncr"> Find NCR factor</item>
+        <item name="multiplication"> Multiplication Of A Table</item>
+        <item name="generateFibonacciSeries"> Generate Fibonacci Series</item>
+        <item name="generateFibonacciSeriesUsingArray"> Generate Fibonacci Series Using Array</item>
+    </string-array>
+
+
+
+    <string-array name ="matrixList">
+        <item name="additionOfTwoMatrix" > Addition Of Two Matrix </item>
+        <item name="subtractionofTwoMatrix">Subtraction  Of Two Matrix  </item>
+        <item name="multiplicationOfMatrix">Multiplication Of Two Matrix </item>
+        <item name="transpose" > Transpose Of A Matrix </item>
+        <item name="diagonalElements"> Sum Of Diagonal Elements </item>
+        <item name="lowerTraingularMatrix"> Display Lower Triangular Matrix </item>
+        <item name="upperTraingularMatrix" > Display Upper Triangular Matrix </item>
+    </string-array>
+
+
+
+
+
+    <string-array name ="arrayList">
+        <item name="findLargestInArray" > Find The Largest Element In An Array </item>
+        <item name="findSecondLargestInArray"> Find The Second Largest Element In An Array  </item>
+        <item name="findSecondSmallestInArray">Find The Second Smallest Element In An Array  </item>
+        <item name="removeDuplicate" >Remove Duplicate Elements In An Array  </item>
+        <item name="deleteElement"> Delete Element From An Array At Desired Position </item>
+        <item name="insertElement"> Insert Element From An Array At Desired Position </item>
+    </string-array>
+
+
+    <string-array name ="swappingList">
+        <item name="swapTwoNumbers" >Swap 2 Numbers Without Using Third variable in C </item>
+        <item name="swapStrings"> Swapping Of Strings Using C programming language </item>
+        <item name="swapArrays"> Swapping Of Arrays </item>
+    </string-array>
+
+
+
+    <string-array name ="strings">
+        <item name="conversionUpperToLower" >Conversion From Uppercase To Lower Case  </item>
+        <item name="conversionLowerToUpper">Conversion From Lower Case To Uppercase </item>
+        <item name="printInitials">Prints Initial Of Any Name </item>
+        <item name="palindrome" > Given String Is Palindrome Or Not  </item>
+        <item name="sortingString"> Sorting Of String In C  </item>
+        <item name="strcpy"> String Copy Without Using Strcpy  </item>
+        <item name="concatenationPointer" > Concatenation Of Two Strings Using Pointer In C  </item>
+        <item name="concatenation" > Concatenation Of Two Strings In C </item>
+        <item name="stringToAscii" >Program To Convert String Into ASCII Values </item>
+        <item name="reverseRecursion" >To Reverse A String By Recursion</item>
+        <item name="countingString" > Counting Different Characters In A String </item>
+    </string-array>
+
+
+
+    <string-array name ="conversions">
+        <item name="binary2decimal" >C code for binary to decimal conversion  </item>
+        <item name="binary2octal">C program to convert binary to octal </item>
+        <item name="hexaToBinary">C program for Binary to Hexadecimal </item>
+        <item name="deci2binary" > Decimal to binary conversion   </item>
+        <item name="decimal2octal"> C code for decimal to octal   </item>
+        <item name="deci2hexa"> C code to convert decimal to hexadecimal  </item>
+        <item name="binary2octal" > C program to convert octal to Binary </item>
+        <item name="octal2deci" > C code to convert octal number to decimal number </item>
+        <item name="hexa2binary1" >C program for hexadecimal to binary conversion </item>
+
+    </string-array>
+
+
+
+    <string-array name ="complex">
+        <item name="complex" >How to use complex numbers in c  </item>
+        <item name="printComplex">C program to printf complex numbers </item>
+        <item name="addComplex">Adding two complex numbers in c </item>
+
+
+    </string-array>
+
+
+    <string-array name ="lcmHcf">
+        <item name="lcm" >Find LCM  </item>
+        <item name="gcd">Find GCD </item>
+        <item name="hcf">Find HCF </item>
+
+    </string-array>
+
+    <string-array name ="searching">
+        <item name="linearSearch" >Linear Search  </item>
+        <item name="BinarySearch">Binary Search </item>
+
+
+    </string-array>
+
+
+
+
+    <string-array name ="assignments">
+        <item name="Assignment 0">Write a program that reads a fixed point real number in a character array and then displays rightmost digit of integral part of number.</item>
+        <item name="Assignment 1">Floyd\'s Triangle</item>
+        <item name="Assignment 2">Write a function \'exchange\' to interchange the values of two variables say x,y. Illustrate the use of this function in calling programs. Assume that x and y are defined as global variables.</item>
+        <item name="Assignment 3">Design an algorithm that accepts a positive integer and reverse the order of its digits</item>
+        <item name="Assignment 4">Write a program to find the sum and average of the given N numbers using the do-while loop</item>
+        <item name="Assignment 5">Clock Time</item>
+    </string-array>
+
+    <string-array name ="games">
+        <item name="snake">Snake Game In C</item>
+        <item name="3dDiagram">3D Diagram of An IC</item>
+        <item name="AnalogueClock">Analog Clock</item>
+        <item name="chessGame">Chess Game</item>
+        <item name="EggGame">Egg Game In C</item>
+        <item name="MickeyMouse">Mickey Mouse Game in C</item>
+        <item name="NeedlesAndBalloon">Needles And Balloon</item>
+        <item name="oilSpill">Oil Spill Game</item>
+        <item name="balloonShooting">Balloon Shooting</item>
+        <item name="ArcheryGame">Archery game In C</item>
+        <item name="tetrisGame">Tetris Game</item>
+        <item name="TicTacToe">Tic Tac Toe Game in C</item>
+        <item name="MindReader">Mind Reader</item>
+        <item name="MagicNumberInC">Magic Number Game</item>
+        <item name="MineSweeper">Mine Sweeper Game</item>
+        <item name="Paint Brush">Paint Brush Game in C</item>
+
+
+    </string-array>
+
+
+    <string-array name ="projects">
+
+        <item name="snake">Snake Game In C</item>
+        <item name="3dDiagram">3D Diagram of An IC</item>
+        <item name="AnalogueClock">Solved Programming Assignment 3</item>
+        <item name="chessGame">Chess Game</item>
+        <item name="EggGame">Egg Game In C</item>
+        <item name="MickeyMouse">Mickey Mouse Game in C</item>
+        <item name="NeedlesAndBalloon">Needles And Balloon</item>
+        <item name="oilSpill">Oil Spill Game</item>
+        <item name="balloonShooting">Balloon Shooting</item>
+        <item name="ArcheryGame">Archery game In C</item>
+        <item name="tetrisGame">Tetris Game</item>
+        <item name="TicTacToe">Tic Tac Toe Game in C</item>
+        <item name="MindReader">Mind Reader</item>
+        <item name="MagicNumberInC">Magic Number Game</item>
+        <item name="MineSweeper">Mine Sweeper Game</item>
+        <item name="Paint Brush">Paint Brush Game in C</item>
+        <item name="booleanFunction">Boolean Function Using Multiplexer Logic</item>
+        <item name="2Dtransformation">Transformation 2D Scaling, Translation, Rotation</item>
+
+    </string-array>
+
+</resources>

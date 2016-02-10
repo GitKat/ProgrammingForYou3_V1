@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name ="DataStructureList">
+        <item name="DSStackWithOOPandExceptionHandlingConcept" > Stack With OOP and Exceptional Handling </item>
+        <item name="DSBinarytreeimplementation"> Binary Tree Implementation </item>
+        <item name="DSQueueimplemetationUsingLinkedList"> Queue Implementation Using Linked List </item>
+        <item name="DSStackImplementaionAsAClass" > Stack implementation As A Class </item>
+        <item name="DSEmployeeManagementDataBase"> Employee management Database </item>
+        <item name="DSImplemetationQueueAsAClass"> Implementing Queue As A Class </item>
+        <item name="DSGraphs" > Graphs Program </item>
+        <item name="FilesandFoldersusingDataStructure"> Files And Folders Using Data Structures </item>
+        <item name="linkedListAssignment1"> Linked List Sample Assignment 1 </item>
+        <item name="linkedListAssignment2"> Linked List Sample Assignment 2 </item>
+        <item name="DSAssign1"> Data Structure Assignment 1 </item>
+        <item name="DSAssign2">Data Structure Assignment 2 </item>
+
+    </string-array>
+
+
+</resources>

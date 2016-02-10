@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name ="oopList">
+        <item name="ClassesAndobjects" > Classes And Objects </item>
+        <item name="inheritance"> Inheritance in C++ </item>
+        <item name="FunctionAndOperatorOverloading"> Function And Operator Overloading</item>
+        <item name="polymorphism" >Polymorphism And Virtual Functions</item>
+        <item name="abstraction"> Data Abstraction </item>
+        <item name="encapsulation"> Encapsulation</item>
+        <item name="namespaces" > Namespaces </item>
+        <item name="filesAndStreams"> Files And Streams </item>
+        <item name="oopAss1"> OOP Solved Sample Assignment 1</item>
+        <item name="oopAss2" > OOP Solved Sample Assignment 2 </item>
+        <item name="oopAss3"> OOP Solved Sample Assignment 3 </item>
+        <item name="oopAss4"> OOP Solved Sample Assignment 4</item>
+
+    </string-array>
+</resources>
